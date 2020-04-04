@@ -1,2 +1,2 @@
 # 3D_Designs
-Repository containing all custom designed models
+This repository contains the Autodesk Inventor files for all my custom 3D model designs
