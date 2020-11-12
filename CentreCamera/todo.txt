@@ -1,0 +1,2 @@
+- The arm needs to be about 5 cmd longer
+- The bed mount needs to be thicker
